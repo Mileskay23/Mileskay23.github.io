@@ -1,0 +1,28 @@
+.bold1 {
+	display: inline-block;
+	width: 150px;
+	border: solid;
+	height: 150px;
+	margin-left:0px;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	padding-right: 0px;
+	vertical-align: top;
+}
+
+.left-column-item {
+	display: block;
+}
+
+.bold2 {
+	display: inline-block;
+	width: 500px;
+	border: solid;
+	height:150;
+	margin-left:0px;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
