@@ -1,0 +1,39 @@
+.top{
+	
+display:inline-block;
+	width: 100;
+	color: white;
+	margin-left:  30px;
+}
+
+#div1 {
+	
+	background-color: #001489;
+	margin: 0px;
+}
+
+body, head{
+	
+	margin: 0px;
+}
+
+.top2{
+	
+display:inline-block;
+	width: 600;
+	vertical-align: top;
+	height: 80px;
+	margin-top:  30px;
+	
+}
+
+#div2 {
+	margin: 0px;
+}
+
+body, head{
+	
+	margin: 0px;
+}
+
+
