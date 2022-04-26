@@ -9,10 +9,12 @@
 	padding-left: 50px;
 	padding-right: 0px;
 	vertical-align: top;
+	background-color: #D31600
 }
 
 .left-column-item {
 	display: block;
+	
 }
 
 .bold2 {
@@ -25,6 +27,7 @@
 	padding-bottom: 30px;
 	padding-left: 50px;
 	padding-right: 50px;
+	background-color: #D31600
 }
 
 .penguinclass {
@@ -61,4 +64,8 @@
 .button{
 	display:block;
 	vertical-align: top;
+}
+
+.head{
+	background-color: #D31600
 }
