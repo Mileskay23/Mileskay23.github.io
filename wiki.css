@@ -1,0 +1,66 @@
+.thing{
+	display: inline-block;
+	height: 110px;
+	vertical-align: top;
+	margin-bottom:0px;
+}
+
+.wiki{
+	display:inline-block;
+}
+
+.thing2{
+	width: 1420px;
+	vertical-align: top;
+	margin-bottom:0px;
+	margin-left: 200px;
+    font-size: 21px
+}
+
+.thing3{
+	height:50px;
+	margin-left: 0px;
+	vertical-align: top;
+	margin-bottom:0px;
+	width: 220px;
+	margin-top:10px;
+	background-color: grey;
+	display:block;
+}
+
+.wiki3{
+	display:inline-block;
+	display: border;
+}
+
+.thing4{
+	width: 1120px;
+	vertical-align: top;
+	margin-bottom:0px;
+	margin-left: 200px;
+    font-size: 16px
+		
+}
+.thing5{
+	width: 1120px;
+	vertical-align: top;
+	margin-bottom:0px;
+	margin-left: 200px;
+    font-size: 26px
+}
+
+.thing6{
+	width: 1420px;
+	vertical-align: top;
+	margin-bottom:0px;
+	margin-left: 200px;
+    font-size: 16px
+}
+
+.thing7{
+	display: inline-block;
+	height: 210px;
+	vertical-align: top;
+	margin-bottom:0px;
+	margin-left: 1900px;
+}
