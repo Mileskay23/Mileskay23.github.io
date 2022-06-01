@@ -1,0 +1,10 @@
+#minus, #plus, #total, #multiply, #divide, #minus3, #plus100 {
+	display: inline-block;
+	font-size: 80px;
+	margin: 15px;
+}
+
+.yah{
+	font-size: 30px;
+}
+
